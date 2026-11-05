@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-white-label-dart-desktop",
+  "capabilityKey": "liberusoftware/module-crm-white-label",
+  "presentation": "dart-desktop",
+  "package": "module_crm_white_label_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/crm/nextjs/white-label.md",
+  "presentationPlan": "projects/crm/features/white-label.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
